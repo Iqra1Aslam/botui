@@ -1,5 +1,5 @@
 {
   "editor.tabSize": 2,
   "typescript.tsdk": "node_modules/typescript/lib",
-  "terminal.integrated.defaultProfile.windows": ""
+  "terminal.integrated.defaultProfile.windows": "Command Prompt"
 }
